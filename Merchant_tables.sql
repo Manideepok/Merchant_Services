@@ -1,5 +1,5 @@
 CREATE TABLE business_category (
-    business_category VARCHAR(50) PRIMARY KEY,
+    business_category_id VARCHAR(50) PRIMARY KEY,
     business_cat_name VARCHAR(50)
 );
 
