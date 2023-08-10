@@ -6,7 +6,7 @@ CREATE TABLE business_category (
  
 
 -- Insert data into the business_category table
-INSERT INTO business_category (business_category, business_cat_name) VALUES
+INSERT INTO business_category (business_category_id, business_cat_name) VALUES
     ('BC001', 'Electronics Retail'),
     ('BC002', 'Fashion Retail'),
     ('BC003', 'Food & Beverage'),
