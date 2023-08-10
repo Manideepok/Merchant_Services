@@ -1,6 +1,6 @@
 # Merchant_Services
 Pinelabs 
-
+Excel Link : https://plinazcertenv-my.sharepoint.com/:x:/g/personal/konjarla_manideep_pinelabs_com/EdcyyNf7_itBvuIJtL8AxXEBac9TfQfUxCNL2ZbRLbdXbQ?e=S3zcoV
 
 Step 1 : Creation of database
 step 2: UI components
@@ -79,8 +79,6 @@ Services
 	
 	->Display all services
 		->Display all merchants
-
-
 
 
 
